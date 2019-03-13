@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jokes Application</string>
+    <string name="Joke2">Why did Mickey Mouse go to outer space?</string>
+    <string name="Joke1">Why would Snow White make a great judge?</string>
+    <string name="Joke3">Why was Cinderella kicked out of the soccer team?</string>
+    <string name="Joke4">Why is Peter Pan always flying?</string>
+    <string name="Joke5">What\'s Jack Sparrow\'s favorite restaurant?</string>
+    <string name="Joke6" >What kind of car did Minnie Mouse drive?</string>
+
+    <style name="Joke1">Why did the chicken cross the road?</style>
+</resources>
